@@ -51,3 +51,8 @@ def get_feedback
   
   puts "Thank you for playing!"
   
+
+  # A method can still belong to a class
+  # rails is an opinionated framework
+
+  
